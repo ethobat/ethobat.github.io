@@ -16,8 +16,3 @@ A short narrative game prototype made for a university project.
 ![](perdition-angel.gif)
 
 ---
-
-
-
-
----
