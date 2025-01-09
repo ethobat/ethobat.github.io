@@ -1,11 +1,15 @@
-#### Final project for a 3D class
+#### Cathedral
+
+Final project for a 3D class. Inspired by the Bath Abbey.
 
 ![](cathedral-render.png)
 ![](cathedral-wireframe.png)
 
 ---
 
-#### University project: Perdition, a short narrative game
+#### Perdition
+
+A short narrative game prototype made for a university project.
 
 ![](perdition-title-anim.gif)
 ![](perdition-solar-dungeon.png)
@@ -13,9 +17,7 @@
 
 ---
 
-*Various assets for Unity and Godot projects:*
-![](ff-godot-spacegun.png)
-![](ff-godot-levelparts.png)
+
 
 
 ---

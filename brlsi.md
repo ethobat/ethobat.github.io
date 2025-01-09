@@ -1,4 +1,4 @@
-https://github.com/ethobat/brlsi-virtual-museum
+[Github repo](https://github.com/ethobat/brlsi-virtual-museum)
 
 In 2022, as part of my university course, I worked on a Unity project for the Bath Royal Literary and Scientific Institution.
 
@@ -6,7 +6,7 @@ The goal of the project was to create a prototype virtual museum in Unity, using
 
 I led the project and made most of the creative and design decisions. I was responsible for bringing together everyone's work in Unity at the end of the project.
 
-https://www.youtube.com/watch?v=c3Y9CYP-wOM
+[Demo video](https://www.youtube.com/watch?v=c3Y9CYP-wOM)
 
 Several artefacts were brought in from the museum and digitized to create the virtual exhibits.
 

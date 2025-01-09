@@ -1,4 +1,4 @@
-https://github.com/ethobat/gospel
+[Github repo](https://github.com/ethobat/gospel)
 
 This was a somewhat open-ended university project. My goal was to create a prototype for a first-person dungeon crawler game.
 

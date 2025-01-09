@@ -23,7 +23,7 @@ This project isn't online, because most of the files in the repository (i.e. ass
 
 #### Construct 3 project
 
-https://ethobat.itch.io/insane-space-combat-simulator-dx
+[Link](https://ethobat.itch.io/insane-space-combat-simulator-dx)
 
 University project - an Asteroids-inspired space shooter made in Construct 3 and playable in browsers.
 
@@ -35,7 +35,7 @@ University project - an Asteroids-inspired space shooter made in Construct 3 and
 
 #### Javascript word game
 
-https://editor.p5js.org/ethobat/sketches/W4I2gZWKD
+[Link](https://editor.p5js.org/ethobat/sketches/W4I2gZWKD)
 
 A word game written in Javascript. The goal is to bridge the gap between two words, where each pair of words must have a Levenshtein distance of 2 or less.
 
