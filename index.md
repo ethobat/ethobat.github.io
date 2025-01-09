@@ -1,3 +1,8 @@
-test
+I'm an aspiring programmer, 3D artist and game developer.
 
-### test
+
+# Projects
+
+### [[Faceless Fears|faceless-fears]]
+*Unity, C#, Blender*
+
