@@ -1,3 +1,7 @@
-"Faceless Fears" was a game developed in Unity and uploaded to itch.io as a project in my final year of university. It is a short "anomaly horror" game where the player patrols an uninhabited house, fixing objects that have been affected by a supernatural force. I wrote the majority of the code and handled the graphics, including shaders and lighting. It received positive reception online (17 comments and several playthrough videos).
+"Faceless Fears" was a game developed in Unity and uploaded to itch.io as a project in my final year of university.
 
-![[ff-unity-demo.gif]]
+![](ff-unity-demo.gif)
+
+It's a short "anomaly horror" game where the player patrols an uninhabited house, fixing objects that have been affected by a supernatural force. I wrote the majority of the code and handled the graphics, including shaders and lighting.
+
+The game received positive reception on itch.io, so me and two other former students decided to continue working on it. We're currently rebuilding the game in Godot with a larger scope and more complex gameplay.
