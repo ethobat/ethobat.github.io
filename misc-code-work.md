@@ -1,6 +1,6 @@
 #### Reverse-engineering an RPG Maker game in Unity
 
-This was a project to reverse-engineer a Pokemon fangame made in RPGMaker and transfer the data and assets into Unity. The project involved decompiling the encrypted assets in the downloadable game and processing them with a set of online tools and Python scripts into formats that were usable in Unity.
+This was a project to explore reverse-engineering and game preservation, where I attempted to reverse-engineer a Pokemon fangame made in RPGMaker and transfer the data and assets into Unity. The project involved decompiling the encrypted assets in the downloadable game and processing them with a combination of existing tools and custom Python scripts into formats that were usable in Unity.
 
 ![](unifier-comparison.png)
 
@@ -10,7 +10,7 @@ There was no information online about many of the data formats used by the origi
 
 ![](unifier-maps.png)
 
-In places where reverse engineering the extracted data was too difficult, I also wrote a few webscraping scripts to gather data directly from the game's wiki.
+In places where reverse engineering the extracted data was too difficult or wasn't worth the time, I also wrote a few webscraping scripts to gather data directly from the game's wiki.
 
 ![](unifier-pokemon-db.png)
 
