@@ -1,6 +1,6 @@
 [Github repo](https://github.com/ethobat/commercial-games-project)
 
-![](ff-unity-sky.png)
+![](ff-godot-trailerpark-outside.png)
 
 "Faceless Fears" was a game developed in Unity and uploaded to itch.io as a project in my final year of university.
 

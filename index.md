@@ -11,7 +11,7 @@ An aspiring programmer, 3D artist and game developer.
 
 ## [Faceless Fears](faceless-fears.md)
 *Software used: Unity, C#, Blender, Godot*
-![](ff-unity-house.png)
+![](ff-unity-sky.png)
 
 ---
 
